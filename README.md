@@ -2,7 +2,7 @@
 
 <br>
 
-$desc
+👾 Aria, a parser for the ADBT language. 🧠
 
 <br>
 <br>
