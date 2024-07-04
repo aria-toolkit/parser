@@ -50,25 +50,25 @@ Licensed under the MIT license which is available here, [MIT license](https://gi
 
 ## 🧬 Related
 
-[]()
+[@igor.dvlpr/simple-exec](https://www.npmjs.com/package/@igor.dvlpr/simple-exec)
 
-> __
+> _🕺 Command. Execution. Made. Simple. ▶_
 
-[]()
+[@igor.dvlpr/uarray](https://www.npmjs.com/package/@igor.dvlpr/uarray)
 
-> __
+> _🎉 Provides UArray, an Array type that supports negative indices/indexes, just wrap your regular JavaScript array with UArray() and you are all set! 🙌_
 
-[]()
+[@igor.dvlpr/is-rootdir](https://www.npmjs.com/package/@igor.dvlpr/is-rootdir)
 
-> __
+> _🔼 Provides a way to check if the given path is the root drive/directory. ⛔_
 
-[]()
+[@igor.dvlpr/node-clone-js](https://www.npmjs.com/package/@igor.dvlpr/node-clone-js)
 
-> __
+> _🧬 A lightweight JavaScript utility allowing deep copy-by-value of nested objects, arrays and arrays of objects. 🪁_
 
-[]()
+[@igor.dvlpr/jmap](https://www.npmjs.com/package/@igor.dvlpr/jmap)
 
-> __
+> _🕶️ Reads a JSON file into a Map. 🌻_
 
 <br>
 <br>
